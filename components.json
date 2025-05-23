@@ -14,7 +14,7 @@
     },
     {
       "id": "back-button",
-      "name": "Back Button so i ccan see how long the text is for this component ehehe",
+      "name": "Back Button",
       "thumbnail": "/thumbnails/back-button.png",
       "dropUrl": "https://framer.com/m/BackButton-Ekij.js",
       "tags": ["functional", "free"],
