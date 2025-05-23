@@ -1,0 +1,75 @@
+[
+    {
+      "id": "magic-hover",
+      "name": "Magic Hover",
+      "thumbnail": "/thumbnails/back-button.png",
+      "dropUrl": "https://framer.com/m/MagicHover-aEX8.js",
+      "tags": ["animation", "free"],
+      "price": "free",
+      "description": "Add a magic hover effect to your Framer project.",
+      "date": "2025-05-23",
+      "lastUpdated": "2025-05-23",
+      "rating": 50
+
+    },
+    {
+      "id": "back-button",
+      "name": "Back Button so i ccan see how long the text is for this component ehehe",
+      "thumbnail": "/thumbnails/back-button.png",
+      "dropUrl": "https://framer.com/m/BackButton-Ekij.js",
+      "tags": ["functional", "free"],
+      "price": "free",
+      "description": " Add a back button to your Framer project.Add a back button to your Framer pro Add a back button to your Framer project. \n Add a back button to your Framer project. Add a back button to your Framer\n \n project. Add a back button to your Framer project. Add a back button to your Framer project. Add a back button to your Framer project. Add a back button to your Framer project. Add a back button to your Framer project. Add a back button to your Framer project. ject.",
+      "date": "2025-05-23",
+      "lastUpdated": "2025-05-15",
+      "rating": 40
+    },
+  {
+      "id": "text-wave",
+      "name": "Text Magnifier",
+      "thumbnail": "/thumbnails/back-button.png",
+      "dropUrl": "https://framer.com/m/TextWave-hBw5.js",
+      "tags": ["functional", "ui"],
+      "price": "paid",
+      "description": "Add a wave effect to text.",
+      "date": "2025-05-23",
+      "lastUpdated": "2025-05-20",
+      "rating": 30
+    },
+    {
+      "id": "smart-truncate",
+      "name": "Smart Truncate",
+      "thumbnail": "/thumbnails/back-button.png",
+      "dropUrl": "https://framer.com/m/TruncatingText-Z3F2.js",
+      "tags": ["functional", "design"],
+      "price": "free",
+      "description": "Smartly truncate text to fit within a container.",
+      "date": "2025-05-23",
+      "lastUpdated": "2025-05-19",
+      "rating": 20
+    },
+      {
+      "id": "reveal-text-on-scroll",
+      "name": "Text Reveal",
+      "thumbnail": "/thumbnails/reveal-text-on-scroll.png",
+      "dropUrl": "https://framer.com/m/ScrollTextRevealBlur-aqJ8.js",
+      "tags": ["functional", "interaction"],
+      "price": "free",
+      "description": "Reveal text on scroll with a blur effect.",
+      "date": "2025-05-23",
+      "lastUpdated": "2025-05-12",
+      "rating": 10
+    },
+        {
+      "id": "confetti-effect",
+      "name": "Confetti Effect",
+      "thumbnail": "/thumbnails/back-button.png",
+      "dropUrl": "https://framer.com/m/ConfettiMachine-xYux.js",
+      "tags": ["functional", "free"],
+      "price": "free",
+      "description": "Add a confetti effect to your Framer project.",
+      "date": "2025-05-23",
+      "lastUpdated": "2025-05-13",
+      "rating": 2
+    }
+  ]
