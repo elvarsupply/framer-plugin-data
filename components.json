@@ -24,6 +24,41 @@
       "lastUpdated": "2025-05-15",
       "rating": 40
     },
+    {
+  "id": "like-save-kit",
+  "name": "Like & Save Kit",
+  "thumbnail": "/thumbnails/like-save-kit.png",
+  "tags": ["functional", "ui", "paid"],
+  "price": "paid",
+  "description": "A bundle of 4 components to power likes, saves, filtering, and grid views.",
+  "date": "2025-05-23",
+  "lastUpdated": "2025-05-23",
+  "rating": 99,
+  "type": "group",
+  "requiresLicense": true,
+  "components": [
+    {
+      "id": "like-button",
+      "name": "Like Button",
+      "dropUrl": "https://framer.com/m/LikeButton-abc1.js"
+    },
+    {
+      "id": "save-button",
+      "name": "Save Button",
+      "dropUrl": "https://framer.com/m/SaveButton-def2.js"
+    },
+    {
+      "id": "like-grid",
+      "name": "Like Grid View",
+      "dropUrl": "https://framer.com/m/LikeGridView-ghi3.js"
+    },
+    {
+      "id": "filter-control",
+      "name": "Filter Control",
+      "dropUrl": "https://framer.com/m/FilterControl-jkl4.js"
+    }
+  ]
+},
   {
       "id": "text-wave",
       "name": "Text Magnifier",
